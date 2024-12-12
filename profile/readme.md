@@ -16,9 +16,10 @@ At e-POLAz, we prioritize simplicity, efficiency, and innovation. Our team is sk
 ## 🚀 Technologies We Use
 
 We focus on a refined tech stack to deliver optimized solutions:
-- **Backend**: PHP with Symfony.
+- **Backend**: PHP, Symfony.
 - **Frontend**: AngularJS.
 - **Mobile Development**: Ionic.
+- **CMS Experts**: Wordpress, Prestashop
 
 ## 🛠 Our Process
 
@@ -36,7 +37,7 @@ We collaborate with startups, agencies, and enterprises to create impactful digi
 
 ### 📫 Contact Us
 
-- Email: [hello@e-polaz.com](mailto:hello@e-polaz.com)  
+- Email: [contact@e-polaz.com](mailto:contact@e-polaz.com)  
 - Website: [e-polaz.com](https://e-polaz.com)  
 
 Let’s bring your vision to life!
